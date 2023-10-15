@@ -3,10 +3,14 @@
 <h1 align="center" > Hello, I'm Dinesh Kumar </h1>
 <img width="40%" align="right"   src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
+
 ## About Me,
+
 I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in my third year of my Bachelor's program. As of now, I am focused on **full-stack development** but still wish to explore many other fields ⚡
 
+
 ## Let's Connect
+
 [![Gmail](https://img.shields.io/badge/Gmail-Red.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSqLRGwLZsdhgWMJbDnMsXqtRPnQsDKZHQTfNHZrWPKhzVKkDzMLRPrGfWKvnvZmCxNw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-kumar1)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rock.rajput.790/)
@@ -15,6 +19,7 @@ I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa 
 
 
 ## Technical Skills
+
 An enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. I have learned web development and have knowledge of HTML, CSS, Bootstrap & JavaScript. I’m currently learning React JS and MySQL.
 
 <p align="center"> 
