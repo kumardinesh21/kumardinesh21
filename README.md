@@ -1,12 +1,14 @@
 
 ![Cover Image](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
 <h1 align="center" > Hello, I'm Dinesh Kumar </h1>
-<img width="40%" align="right"   src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
+<img width="300" align="right"   src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 
 ## About Me,
 
 I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in my third year of my Bachelor's program. As of now, I am focused on **full-stack development** but still wish to explore many other fields ⚡
+
+
 
 
 ## Let's Connect
@@ -21,6 +23,7 @@ I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa 
 ## Technical Skills
 
 An enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. I have learned web development and have knowledge of HTML, CSS, Bootstrap & JavaScript. I’m currently learning React JS and MySQL.
+
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
