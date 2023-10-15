@@ -1,193 +1,87 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>Document</title>
-    <style>
-      /* Global Styles */
-      body {
-        font-family: sans-serif;
-        margin: 0;
-        padding: 0;
-      }
-      h1,
-      h3,
-      p {
-        text-align: left;
-        margin-left: 20px;
-      }
+![cover](https://user-images.githubusercontent.com/73987670/182678403-40939338-83f3-4465-94df-038c8642c7db.png)
 
-      p.new_para {
-        display: flex;
-        align-items: center;
-        margin-left: 20px;
-      }
-      /* Align the right image */
-      img.align-right {
-        float: right;
-      }
-      /* Additional CSS styles can be added here */
-    </style>
-  </head>
-  <body>
-    <img
-      src="https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png"
-      alt="cover.png"
-      style="max-width: 100%"
-    />
-    <h1>Hello, I'm Dinesh Kumar</h1>
-    <img
-      class="align-right"
-      src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-      alt="coding"
-      width="300"
-    />
-    <h3>About Me</h3>
-    <p>
-      I am <b>Dinesh Kumar</b>, pursuing my
-      <b>Software Engineering degree</b> at DHA Suffa University. I am currently
-      in my third year of my Bachelor's program. As of now, I am focused on
-      <b>full-stack development</b> but still wish to explore many other fields
-      ⚡
-    </p>
-    <h3>Let's Learn, Grow and Connect</h3>
-    <p class="new_para">
-        <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSqLRGwLZsdhgWMJbDnMsXqtRPnQsDKZHQTfNHZrWPKhzVKkDzMLRPrGfWKvnvZmCxNw" target="_blank">
-            <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" alt="Gmail"  height="50"
-            width="40">
-        </a>
-      
-      <a href="https://www.facebook.com/rock.rajput.790/" target="blank"
-        ><img
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-          alt="dinesh rajput"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://instagram.com/rajput.v8" target="blank"
-        ><img
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-          alt="rajput.v8"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://www.hackerrank.com/rajputdineshkum1" target="blank"
-        ><img
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-          alt="dinesh kumar"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://www.linkedin.com/in/d-kumar1/" target="blank"
-        ><img
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="dinesh kumar"
-          height="30"
-          width="40"
-      /></a>
-     
-    </p>
-    <h3>Technical Skills</h3>
-    <p>
-      An enthusiastic learner who's constantly working to learn new things and
-      improve my skills to be the best version of myself. I have learned web
-      development and have knowledge of HTML, CSS, Bootstrap & JavaScript. I’m
-      currently learning React JS and MySQL.
-    </p>
-    <p>
-      <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-          alt="c"
-          width="40"
-          height="40"
-      /></a>
-      <a href="https://www.java.com" target="blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          alt="java"
-          width="40"
-          height="40"
-      /></a>
-      <a href="https://www.w3.org/html/" target="blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40"
-      /></a>
-      <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40"
-      /></a>
-      <a href="https://getbootstrap.com" target="blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-      /></a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="blank"
-        rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-      /></a>
-      <a href="https://www.mysql.com/" target="blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql"
-          width="40"
-          height="40"
-      /></a>
-      <a href="https://www.python.org" target="blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          alt="python"
-          width="40"
-          height="40"
-      /></a>
-      <a href="https://reactjs.org/" target="blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="40"
-          height="40"
-      /></a>
-    </p>
-    <!-- Additional content can be added here -->
-    <p>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=kumardinesh21&show_icons=true&locale=en&layout=compact"
-        alt="kumardinesh21"
-      />
-    </p>
 
-    <p>
-      &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=kumardinesh21&show_icons=true&locale=en"
-        alt="kumardinesh21"
-      />
-    </p>
+<h1 align="center" >Hello, I'm <a href="https://www.linkedin.com/in/suhaib-ahmed-shariff-a6919b216/" target="_blank"> Suhaib Ahmed Shariff </a> </h1>
+<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-    <p>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21&"
-        alt="kumardinesh21"
-      />
-    </p>
-  </body>
-</html>
+ 
+### About Me,
 
+ I am <b>Suhaib Ahmed Shariff</b> pursuing my <b>Software Engineering Degree</b> from DHA Suffa University, Currently in my 3rd year of Bachelor's. As of now, I am focused on <b>web development and dynamic programming </b> but still, wish to explore many fields. ⚡
+ 
+ <h3 align="center"> Tech Enthusiast | Frontend Developer | Backend Developer</h3>
+ 
+ <div>
+ <h1>Let's Learn, Grow and Connect</h1>
+
+<a  href="https://www.linkedin.com/in/suhaib-ahmed-shariff-a6919b216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/uncultured_paki" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:asuhaib2002@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://github.com/asuhaib2002"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
+ 
+ <div align="center">
+
+<h1>🛠 Technical Skills</h1>
+   
+An enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. I have learned web-development and having knowledge of HTML,CSS, Bootstrap & Javascript. I’m currently learning React JS and MySQL.
+
+**I love to collaborate on any project especially open source projects.**
+
+<p align="center"> 
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+ <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
+
+
+I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+
+<h1 align="center">💻 Projects</h1>
+
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [My Portfolio Website](https://suhaib-portfolio.herokuapp.com/react-portfolio/)     | Portfolio website build using ReactJS and HTML ,CSS. 
+| [E-commerce Website](https://shariff-ecomerce.herokuapp.com/)   | A personal project which has a user login/register functionality and also allows us to add products. This project is made on Flask framework and uses sqlite database.
+| [Todo Website](https://todo-manager0.herokuapp.com/)     | A todo website which is made with Flask and with sqlite as it's back-end. 
+| [Phone Directory ](https://phonedirectorydsa.herokuapp.com/)     | This project is basically a Contact Management System with used Flask and sqlite database
+| [Bhook Mitao](https://bhook-mitao.samimunir2002.repl.co/homepage.html)     | Bhook Mitao is a web based solution which I made in Hackfest'22. It focuses on the white collar population and provides them food by acting a brudge between them and the organization. That too with privacy of their information.
+
+  
+# ⚙️ GitHub Analytics
+  
+  <table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=asuhaib2002&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Samiullah" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asuhaib2002&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asuhaib2002&theme=dark" alt="Samiullah" /></p>
+  </div>
+
+# 📈 Contribution Graph  
+ [![Suhaib AHmed Shariff's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asuhaib2002&&theme=xcode)](https://github.com/asuhaib2002)
+
+ </div>
+
+<!---
+samipak458/samipak458 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
