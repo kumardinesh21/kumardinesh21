@@ -29,6 +29,21 @@ An enthusiastic learner who's constantly working to learn new things and improve
 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kumardinesh21&show_icons=true&locale=en) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21)
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=asuhaib2002&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Samiullah" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asuhaib2002&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asuhaib2002&theme=dark" alt="Samiullah" /></p>
+  </div>
+
+# 📈 Contribution Graph  
+ [![Suhaib AHmed Shariff's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asuhaib2002&&theme=xcode)](https://github.com/asuhaib2002)
+
+ </div>
 
 
