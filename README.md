@@ -1,6 +1,6 @@
 
 ![Cover Image](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
-<h1 align="center" > # Hello, I'm Dinesh Kumar </h1>
+<h1 align="center" > Hello, I'm Dinesh Kumar </h1>
 ## About Me
 I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in my third year of my Bachelor's program. As of now, I am focused on **full-stack development** but still wish to explore many other fields ⚡
 
