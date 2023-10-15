@@ -29,10 +29,6 @@ An enthusiastic learner who's constantly working to learn new things and improve
 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kumardinesh21&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumardinesh21&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kumardinesh21&show_icons=true&locale=en) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21)
 
 
