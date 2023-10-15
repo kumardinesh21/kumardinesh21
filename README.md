@@ -1,16 +1,16 @@
-# Hello, I'm Dinesh Kumar
 
 ![Cover Image](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
-
+<h1 align="center" > # Hello, I'm Dinesh Kumar </h1>
 ## About Me
 I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in my third year of my Bachelor's program. As of now, I am focused on **full-stack development** but still wish to explore many other fields ⚡
 
 ## Let's Connect
 [![Gmail](https://img.shields.io/badge/Gmail-Red.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSqLRGwLZsdhgWMJbDnMsXqtRPnQsDKZHQTfNHZrWPKhzVKkDzMLRPrGfWKvnvZmCxNw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-kumar1)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rock.rajput.790/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajput.v8)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rajputdineshkum1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-kumar1)
+
 
 ## Technical Skills
 An enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. I have learned web development and have knowledge of HTML, CSS, Bootstrap & JavaScript. I’m currently learning React JS and MySQL.
@@ -29,15 +29,10 @@ An enthusiastic learner who's constantly working to learn new things and improve
 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kumardinesh21&show_icons=true&locale=en) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21) -->
 
-
-
-<table>
-  <tr>
-<td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
+<table align="center">
+  <tr align="center">
+<td ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
   </tr>
 </table>
 
