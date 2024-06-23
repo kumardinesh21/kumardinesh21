@@ -5,7 +5,7 @@
 
 ## About Me,
 
-I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in my third year of my Bachelor's program. As of now, I am focused on **full-stack development** but still wish to explore many other fields ⚡
+I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in my Final year of my Bachelor's program. As of now, I am focused on **full-stack development** but still wish to explore many other fields ⚡
 
 ## Let's Connect
 
@@ -17,7 +17,7 @@ I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa 
 
 ## Technical Skills
 
-An enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. I have learned web development and have knowledge of HTML, CSS, Bootstrap & JavaScript. I’m currently learning React JS and MySQL.
+I'm an enthusiastic learner dedicated to expanding my skills and striving to reach new heights in backend development. I have a solid foundation in web development and am currently diving deeper into Django with Python, eager to master backend frameworks and database management systems.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -30,13 +30,14 @@ An enthusiastic learner who's constantly working to learn new things and improve
 <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img alt="React.js" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 <table align="center">
   <tr align="center">
-<td ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
+<td ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="user" /></td>
   </tr>
 </table>
 
