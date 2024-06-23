@@ -5,7 +5,7 @@
 
 ## About Me,
 
-I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in my Final year of my Bachelor's program. As of now, I am focused on **full-stack development** but still wish to explore many other fields ⚡
+I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in my Final year of my Bachelor's program. As of now, I am focused on **Back-End development** but still wish to explore many other fields ⚡
 
 ## Let's Connect
 
