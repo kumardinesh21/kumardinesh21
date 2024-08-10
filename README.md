@@ -35,11 +35,11 @@ I am a passionate learner committed to advancing my skills and achieving excelle
 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-<!-- <table align="center">
+<table align="center">
   <tr align="center">
 <td ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="user" /></td>
   </tr>
-</table> -->
+</table>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21&theme=dark" alt="dinesh" /></p>
