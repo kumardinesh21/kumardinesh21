@@ -6,7 +6,7 @@
 
 ## About Me,
 
-I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in my final year of my Bachelor's program. As of now, I am focused on **Back-End development** but still wish to explore many other fields ⚡
+I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in the final year of my Bachelor's program. As of now, I am focused on **Back-End development** but still wish to explore many other fields ⚡
 
 
 
@@ -22,7 +22,7 @@ I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa 
 
 
 ## Technical Skills
-Passionate about continuous learning, I have a strong background in web development and database management. Currently, I am focused on mastering **Spring Boot**, a leading Java framework for backend development, to enhance my technical expertise further..
+Passionate about continuous learning, I have a strong background in web development and database management. Currently, I am focused on mastering **Spring Boot**, a leading Java framework for backend development, to enhance my technical expertise further.
 
 
 <p align="center"> 
