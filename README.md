@@ -6,7 +6,7 @@
 
 ## About Me,
 
-I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in my third year of my Bachelor's program. As of now, I am focused on **full-stack development** but still wish to explore many other fields ⚡
+I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in my final year of my Bachelor's program. As of now, I am focused on **Back-End development** but still wish to explore many other fields ⚡
 
 
 
@@ -22,13 +22,13 @@ I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa 
 
 
 ## Technical Skills
-
-An enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. I have learned web development and have knowledge of HTML, CSS, Bootstrap & JavaScript. I’m currently learning React JS and MySQL.
+Passionate about continuous learning, I have a strong background in web development and database management. Currently, I am focused on mastering **Spring Boot**, a leading Java framework for backend development, to enhance my technical expertise further..
 
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
