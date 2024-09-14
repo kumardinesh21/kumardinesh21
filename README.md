@@ -16,11 +16,10 @@ I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa 
 
 [![Gmail](https://img.shields.io/badge/Gmail-Red.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSqLRGwLZsdhgWMJbDnMsXqtRPnQsDKZHQTfNHZrWPKhzVKkDzMLRPrGfWKvnvZmCxNw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-kumar1)
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rock.rajput.790/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajput.v8) -->
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rajputdineshkum1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rajputdineshkumar21/)
-
+<!-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rock.rajput.790/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajput.v8) -->
 
 ## Technical Skills
 Passionate about continuous learning, I have a strong background in web development and database management. Currently, I am focused on mastering **Spring Boot**, a leading Java framework for backend development, to enhance my technical expertise further.
