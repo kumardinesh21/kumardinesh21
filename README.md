@@ -39,6 +39,11 @@ Passionate about continuous learning, I have a strong background in web developm
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kumardinesh21&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <table align="center">
   <tr align="center">
 <td ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
@@ -49,3 +54,4 @@ Passionate about continuous learning, I have a strong background in web developm
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21&theme=dark" alt="dinesh" /></p>
   </div>
  </div>
+
