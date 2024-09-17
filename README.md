@@ -1,8 +1,7 @@
 ![Cover Image](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
+
 <h1 align="center"> Hello, I'm Dinesh Kumar </h1>
 <img width="250" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
 
 ## About Me
 
@@ -30,23 +29,23 @@ Passionate about continuous learning, I have a strong background in web developm
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-#📊 GitHub Stats:
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 20px;">
+## 📊 GitHub Stats:
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumardinesh21&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 20px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 20px;">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21&theme=dark" alt="dinesh" />
 </div>
-
-
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=kumardinesh21&label=Profile%20Views&color=1&icon=0&pretty=false)
