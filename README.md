@@ -35,21 +35,14 @@ Passionate about continuous learning, I have a strong background in web developm
 </p>
 
 # 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumardinesh21&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21&theme=radical&hide_border=false)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&theme=radical&hide_border=false&layout=compact) -->
-
-<table align="center">
-  <tr align="center">
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Dinesh Kumar" /></td>
-  </tr>
-</table>
-
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21&theme=dark" alt="Dinesh Kumar" /></p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumardinesh21&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</div>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" />
+</div>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21&theme=dark" alt="dinesh" />
 </div>
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=kumardinesh21&label=Profile%20Views&color=1&icon=0&pretty=false)
