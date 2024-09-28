@@ -1,7 +1,10 @@
 ![Cover Image](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
+![Profile Views](https://visitcount.itsvg.in/api?id=kumardinesh21&label=Profile%20Views&color=1&icon=0&pretty=false)
 
 <h1 align="center"> Hello, I'm Dinesh Kumar </h1>
 <img width="250" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
 
 ## About Me
 
@@ -49,4 +52,4 @@ Passionate about continuous learning, I have a strong background in web developm
 </div>
 <br/>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=kumardinesh21&label=Profile%20Views&color=1&icon=0&pretty=false)
+
