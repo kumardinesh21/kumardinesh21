@@ -1,7 +1,6 @@
-![Cover Image](./git.webp)
+<img src="./git.webp" alt="Cover Image" style="height: 250px; display: block; margin: 0 auto;">
 
 <h1 align="center"> Hello, I'm Dinesh Kumar </h1>
-<!-- <img width="250" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=kumardinesh21&label=Profile%20Views&color=1&icon=0&pretty=false)
 
@@ -28,7 +27,7 @@ With a passion for continuous learning, I have a strong foundation in web develo
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -50,5 +49,3 @@ With a passion for continuous learning, I have a strong foundation in web develo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21&theme=dark" alt="dinesh" />
 </div>
 <br/>
-
-
