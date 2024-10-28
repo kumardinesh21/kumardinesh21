@@ -1,6 +1,4 @@
-![Cover Image](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
-
-
+![Cover Image](./git.webp)
 
 <h1 align="center"> Hello, I'm Dinesh Kumar </h1>
 <!-- <img width="250" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
@@ -9,7 +7,7 @@
 
 ## About Me
 
-I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in the final year of my Bachelor's program. As of now, I am focused on **Back-End development** but still wish to explore many other fields ⚡
+I'm **Dinesh Kumar**, a final-year **Software Engineering** student at DHA Suffa University, specializing in **Back-End development**. While focused on mastering backend technologies, I'm also keen to explore other areas in software development⚡
 
 ## Let's Connect
 
@@ -20,7 +18,7 @@ I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa 
 
 ## Technical Skills
 
-Passionate about continuous learning, I have a strong background in web development and database management. Currently, I am focused on mastering **Spring Boot**, a leading Java framework for backend development, to enhance my technical expertise further.
+With a passion for continuous learning, I have a strong foundation in web development and databases. Currently, I'm enhancing my expertise in **Spring Boot**, a leading Java framework for backend development.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
