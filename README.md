@@ -1,4 +1,5 @@
-<img src="./git.webp" alt="Cover Image" style="height: 250px; display: block; margin: 0 auto;">
+<img src="./git.webp" alt="Cover Image" style="height: 250px; width: 100%; object-fit: cover; display: block; margin: 0 auto;">
+
 
 <h1 align="center"> Hello, I'm Dinesh Kumar </h1>
 
