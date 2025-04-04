@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm **Dinesh Kumar**, a final-year **Software Engineering** student at DHA Suffa University, specializing in **Back-End development**. While focused on mastering backend technologies, I'm also keen to explore other areas in software development⚡
+I'm **Dinesh Kumar**, a Programmer at **Centegy Technologies** specializing in Java, Spring Boot, JSP, Servlets, and Java EE. I focus on optimizing enterprise applications, and ensuring scalability, security, and performance while leveraging modern development practices. With expertise in Microservices, RESTful APIs, and database management (MySQL, Oracle), I am committed to building efficient and high-performing software solutions.
 
 ## Let's Connect
 
